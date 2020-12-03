@@ -6,8 +6,8 @@ description: Advent of code 2020 Day
 environment:
   sdk: '>=2.7.0'
 
-#dependencies:
-#  path: ^1.7.0
+dependencies:
+  petitparser: ^3.1.0
 
 dev_dependencies:
   pedantic: ^1.9.0
