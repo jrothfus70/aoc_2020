@@ -129,5 +129,5 @@ void main()
   print( 'Part 1 result: $numYes' );
 
   var numAllYes = getNumAllYesAnswers( groups );
-  print( 'Part 1 result: $numAllYes' );
+  print( 'Part 2 result: $numAllYes' );
 }
